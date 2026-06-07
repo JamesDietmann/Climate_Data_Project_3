@@ -23,3 +23,7 @@ do now.
 I would grab the past 30 years of data in the area surrounding Eau Claire and explore daily snow depths
 in the winter months. I may included snow fall data and temperature data to determine if it’s snowing
 less or just melting faster.
+
+The interesting question I tried to answer was: Has the frost-free growing season in south-central Wisconsin lengthened over the past decade?
+
+You run this project by 
