@@ -26,4 +26,4 @@ less or just melting faster.
 
 The interesting question I tried to answer was: Has the frost-free growing season in south-central Wisconsin lengthened over the past decade?
 
-You run this project by 
+to run this project one can download weather_data.csv and run project3.py file to develop the graphs.
